@@ -2,6 +2,7 @@
   "name": "BetterDark",
   "description": "Dark mode, but darker, and with white icons for usability.",
   "version": "1.0.1",
+  "color": "#242424",
   "authors": [
     {
       "name": "darealyeeto",
