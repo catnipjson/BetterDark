@@ -31,7 +31,7 @@
 		"INTERACTIVE_NORMAL": ["#00380e", "#00380e"],
 		"TEXT_LINK": ["#006619", "#006619"],
 		"TEXT_MUTED": ["#0d2d15", "#0d2d15"],
-		"TEXT_NORMAL": ["#26472e", "#26472e"]
+		"TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#FFFFFF",
