@@ -46,12 +46,12 @@
       "#16181d"
     ],
     "BACKGROUND_SECONDARY": [
-      "#181b20",
-      "#181b20"
+      "#242424",
+      "#242424"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#181b20",
-      "#181b20"
+      "#242424",
+      "#242424"
     ],
     "BACKGROUND_TERTIARY": [
       "#1a1d23",
@@ -70,8 +70,8 @@
       "#16181d"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#181b20",
-      "#181b20"
+      "#242424",
+      "#242424"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#111317",
