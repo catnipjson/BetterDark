@@ -120,8 +120,8 @@
       "transparent"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#333333",
-      "#333333"
+      "#000000",
+      "#000000"
     ],
     "CHAT_BACKGROUND": [
       "#000000",
