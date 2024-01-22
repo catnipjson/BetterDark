@@ -1,7 +1,7 @@
 {
   "name": "BetterDark",
   "description": "Dark mode, but darker, and with white icons for usability.",
-  "version": "1.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "darealyeeto",
@@ -22,8 +22,8 @@
       "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#444C5B",
-      "#444C5B"
+      "#C6C6C6",
+      "#C6C6C6"
     ],
     "INTERACTIVE_NORMAL": [
       "#ffffff",
