@@ -1,3 +1,54 @@
 {
-  "theme_forest_hex": "{\n\t\"name\": \"forest\",\n\t\"author\": \"darealyeeto\",\n\t\"version\": \"1.0.0\",\n\t\"description\": \"basic forest green theme ig\",\n\t\"authors\": [ \n\t\t{\n\t\t\t\"name\": \"NEO\",\n\t\t\t\"id\": \"424806150702366723\"\n\t\t}\n\t],\n\t},\n\t\"theme_color_map\": {\n\t\t\"KEYBOARD\": [\"#000000\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_PRIMARY\": [\"#00390e\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_SECONDARY\": [\"#005114\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_SECONDARY_ALT\": [\"#0f5621\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_TERTIARY\": [\"#002a0a\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_ACCENT\": [\"#001e07\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_FLOATING\": [\"#0e2514\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_NESTED_FLOATING\": [\"#153141c\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_MOBILE_PRIMARY\": [\"#00390e\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_MOBILE_SECONDARY\": [\"#005114\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_MODIFIER_ACCENT\": [\"#002309\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_MODIFIER_ACTIVE\": [\"#00330d\", \"#FFFFFF\"],\n\t\t\"BACKGROUND_MODIFIER_SELECTED\": [\"#004a12\", \"#FFFFFF\"],\n\t\t\"CHANNELS_DEFAULT\": [\"#032a0c\", \"#FFFFFF\"],\n\t\t\"HEADER_PRIMARY\": [\"#112c18\", \"#FFFFFF\"],\n\t\t\"HEADER_SECONDARY\": [\"#16351d\", \"#FFFFFF\"],\n\t\t\"INTERACTIVE_ACTIVE\": [\"#00390e\", \"#FFFFFF\"],\n\t\t\"INTERACTIVE_MUTED\": [\"#00290a\", \"#FFFFFF\"],\n\t\t\"INTERACTIVE_NORMAL\": [\"#00380e\", \"#FFFFFF\"],\n\t\t\"TEXT_LINK\": [\"#006619\", \"#FFFFFF\"],\n\t\t\"TEXT_MUTED\": [\"#0d2d15\", \"#FFFFFF\"],\n\t\t\"TEXT_NORMAL\": [\"#26472e\", \"#FFFFFF\"]\n\t},\n\t\"colours\": {\n\t\t\"PRIMARY_DARK\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_100\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_300\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_360\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_400\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_500\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_600\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_630\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_700\": \"#FFFFFF\",\n\t\t\"PRIMARY_DARK_800\": \"#FFFFFF\",\n\t\t\"BRAND_NEW\": \"#FFFFFF\",\n\t\t\"WHITE\": \"#FFFFFF\"\n\t},\n\t\"unsafe_colors\": {\n\t\t\"CHAT_GREY\": \"#000000\"\n\t}\n}"
+	"name": "forest",
+	"author": "darealyeeto",
+	"version": "1.0.0",
+	"description": "basic forest green theme ig",
+	"authors": [ 
+		{
+			"name": "NEO",
+			"id": "424806150702366723"
+		}
+	],
+	},
+	"theme_color_map": {
+		"KEYBOARD": ["#000000", "#FFFFFF"],
+		"BACKGROUND_PRIMARY": ["#00390e", "#00390e"],
+		"BACKGROUND_SECONDARY": ["#005114", "#005114"],
+		"BACKGROUND_SECONDARY_ALT": ["#0f5621", "#0f5621"],
+		"BACKGROUND_TERTIARY": ["#002a0a", "#002a0a"],
+		"BACKGROUND_ACCENT": ["#001e07", "#001e07"],
+		"BACKGROUND_FLOATING": ["#0e2514", "#0e2514"],
+		"BACKGROUND_NESTED_FLOATING": ["#153141c", "#153141c"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#00390e", "#00390e"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#005114", "#005114"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#002309", "#002309"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#00330d", "#00330d"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#004a12", "#004a12"],
+		"CHANNELS_DEFAULT": ["#032a0c", "#032a0c"],
+		"HEADER_PRIMARY": ["#112c18", "#112c18"],
+		"HEADER_SECONDARY": ["#16351d", "#16351d"],
+		"INTERACTIVE_ACTIVE": ["#00390e", "#00390e"],
+		"INTERACTIVE_MUTED": ["#00290a", "#00290a"],
+		"INTERACTIVE_NORMAL": ["#00380e", "#00380e"],
+		"TEXT_LINK": ["#006619", "#006619"],
+		"TEXT_MUTED": ["#0d2d15", "#0d2d15"],
+		"TEXT_NORMAL": ["#26472e", "#26472e"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#FFFFFF",
+		"PRIMARY_DARK_100": "#FFFFFF",
+		"PRIMARY_DARK_300": "#FFFFFF",
+		"PRIMARY_DARK_360": "#FFFFFF",
+		"PRIMARY_DARK_400": "#FFFFFF",
+		"PRIMARY_DARK_500": "#FFFFFF",
+		"PRIMARY_DARK_600": "#FFFFFF",
+		"PRIMARY_DARK_630": "#FFFFFF",
+		"PRIMARY_DARK_700": "#FFFFFF",
+		"PRIMARY_DARK_800": "#FFFFFF",
+		"BRAND_NEW": "#FFFFFF",
+		"WHITE": "#FFFFFF"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#000000"
+	}
 }
