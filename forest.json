@@ -15,40 +15,40 @@
          "#000000"
       ],
       "HEADER_PRIMARY": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ],
       "HEADER_SECONDARY": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ],
       "TEXT_NORMAL": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ],
       "TEXT_MUTED": [
          "#B6B6B6",
          "#747F8D"
       ],
       "TEXT_LINK": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ],
       "CHANNEL_ICON": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ],
       "INTERACTIVE_NORMAL": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ],
       "INTERACTIVE_HOVER": [
          "#DCDDDE",
          "#2E3338"
       ],
       "INTERACTIVE_ACTIVE": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ],
       "INTERACTIVE_MUTED": [
          "#747474",
@@ -63,7 +63,7 @@
          "#000000"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-         "#4aef97",
+         "#002b14",
          "#EBEDEF"
       ],
       "BACKGROUND_TERTIARY": [
@@ -131,8 +131,8 @@
          "#EBEDEF"
       ],
       "CHANNELS_DEFAULT": [
-         "#4aef97",
-         "#4aef97"
+         "#002b14",
+         "#002b14"
       ]
    },
    "colours": {
