@@ -29,8 +29,8 @@
 		"INTERACTIVE_ACTIVE": ["#00390e", "#00390e"],
 		"INTERACTIVE_MUTED": ["#00290a", "#00290a"],
 		"INTERACTIVE_NORMAL": ["#00380e", "#00380e"],
-		"TEXT_LINK": ["#006619", "#006619"],
-		"TEXT_MUTED": ["#0d2d15", "#0d2d15"],
+		"TEXT_LINK": ["#", "#006619"],
+		"TEXT_MUTED": ["FFFFFF", "#FFFFFF"],
 		"TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"]
 	},
 	"colours": {
