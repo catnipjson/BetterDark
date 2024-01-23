@@ -27,20 +27,20 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#000000",
-      "#000000"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#000000",
-      "#000000"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#000000",
-      "#000000"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#000000",
-      "#000000"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
       "#000000",
