@@ -1,7 +1,7 @@
 {
   "name": "BetterDark",
   "description": "Dark mode, but darker, and with white icons for usability.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "color": "#242424",
   "authors": [
     {
@@ -92,16 +92,16 @@
       "#2c2c2c"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#5E5E5E",
+      "#5E5E5E"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#5E5E5E",
+      "#5E5E5E"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#5E5E5E",
+      "#5E5E5E"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
