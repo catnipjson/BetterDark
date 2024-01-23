@@ -43,16 +43,16 @@
       "#2c2c2c"
     ],
     "BACKGROUND_PRIMARY": [
-      "#212121",
-      "#212121"
+      "#1B1B1B",
+      "#1B1B1B"
     ],
     "BACKGROUND_SECONDARY": [
-      "#212121",
-      "#212121"
+      "#1B1B1B",
+      "#1B1B1B"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#212121",
-      "#212121"
+      "#1B1B1B",
+      "#1B1B1B"
     ],
     "BACKGROUND_TERTIARY": [
       "#333333",
@@ -71,8 +71,8 @@
       "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#212121",
-      "#212121"
+      "#1B1B1B",
+      "#1B1B1B"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#FFFFFF",
@@ -88,20 +88,20 @@
       "#2c2c2c"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#2c2c2c",
-      "#2c2c2c"
+      "#FFFFFF",
+      "#FFFFFF
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
