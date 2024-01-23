@@ -23,11 +23,11 @@
       "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#ffffff",
-      "#ffffff"
+      "#C3C3C3",
+      "#C3C3C3"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FFFFFF",
+      "#",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
