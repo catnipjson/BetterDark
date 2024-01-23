@@ -71,6 +71,10 @@
       "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY_ALT": [
       "#1B1B1B",
       "#1B1B1B"
     ],
