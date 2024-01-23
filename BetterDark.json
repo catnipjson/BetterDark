@@ -1,7 +1,7 @@
 {
   "name": "BetterDark",
   "description": "Dark mode, but darker, with white icons and grey in most aspects for usability.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "color": "#242424",
   "authors": [
     {
@@ -27,20 +27,20 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ffffff",
-      "#ffffff"
+      "#000000",
+      "#000000"
     ],
     "INTERACTIVE_HOVER": [
-      "#ffffff",
-      "#ffffff"
+      "#000000",
+      "#000000"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#ffffff"
+      "#000000",
+      "#000000"
     ],
     "INTERACTIVE_MUTED": [
-      "#ffffff",
-      "#ffffff"
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_PRIMARY": [
       "#000000",
