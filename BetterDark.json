@@ -88,20 +88,20 @@
       "#2c2c2c"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#2c2c2c",
+      "#2c2c2c"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#2c2c2c",
+      "#2c2c2c"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#2c2c2c",
+      "#2c2c2c"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#2c2c2c",
+      "#2c2c2c"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
