@@ -35,12 +35,12 @@
       "#000000"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#2C2C2C",
-      "#2C2C2C"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#2C2C2C",
-      "#2C2C2C"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
       "#000000",
@@ -75,8 +75,8 @@
       "#000000"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_MENTIONED": [
       "#333333",
