@@ -24,7 +24,7 @@
     ],
     "TEXT_MUTED": [
       "#C3C3C3",
-      "#C3C3C3"
+      "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
       "#FFFFFF",
@@ -32,7 +32,7 @@
     ],
     "INTERACTIVE_HOVER": [
       "#5B5B5B",
-      "#5B5B5B"
+      "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
       "#FFFFFF",
@@ -44,68 +44,68 @@
     ],
     "BACKGROUND_PRIMARY": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#1B1B1B",
-      "#1B1B1B"
+      "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
       "#333333",
-      "#333333"
+      "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
       "#272c35",
-      "#272c35"
+      "#ffffff"
     ],
     "BACKGROUND_FLOATING": [
       "#111317",
-      "#111317"
+      "#ffffff"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
       "#333333",
-      "#333333"
+      "#ffffff"
     ],
     
     "BACKGROUND_MESSAGE_HOVER": [
       "#2c2c2c",
-      "#2c2c2c"
+      "#ffffff"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#2c2c2c",
-      "#2c2c2c"
+      "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#5E5E5E",
-      "#5E5E5E"
+      "#ffffff"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
       "#5E5E5E",
-      "#5E5E5E"
+      "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#5E5E5E",
-      "#5E5E5E"
+      "#ffffff"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
-      "#333333"
+      "#ffffff"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent",
@@ -113,7 +113,7 @@
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#333333",
-      "#333333"
+      "#ffffff"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent",
@@ -121,27 +121,27 @@
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "CHAT_BACKGROUND": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "CHANNELS_DEFAULT": [
       "#D5D5D5",
-      "#D5D5D5"
+      "#ffffff"
     ],
     "TEXT_LINK": [
       "#919191",
-      "#919191"
+      "#ffffff"
     ],
     "KEYBOARD": [
       "#000000",
-      "#000000"
+      "#ffffff"
     ],
     "CHANNEL_ICON": [
       "#80848e",
-      "#80848e"
+      "#ffffff"
     ]
   },
   "colours": {
