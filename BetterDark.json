@@ -166,7 +166,7 @@
     "STATUS_RED": "#8a94a8"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#000000"
+    "CHAT_GREY": "#8E8E8E"
   }
   
 }
