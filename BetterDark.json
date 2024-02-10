@@ -163,7 +163,7 @@
     "STATUS_YELLOW_300": "#ffffff",
     "STATUS_GREEN_600": "#ffffff",
     "STATUS_DANGER": "#2c2c2c",
-    "STATUS_RED": "#8a94a8"
+    "STATUS_RED": "#848484"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
