@@ -75,8 +75,8 @@
       "#000000"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#000000",
+      "#000000"
     ],
     "BACKGROUND_MENTIONED": [
       "#333333",
@@ -132,8 +132,8 @@
       "#D5D5D5"
     ],
     "TEXT_LINK": [
-      "#C4C4C4",
-      "#C4C4C4"
+      "#919191",
+      "#919191"
     ],
     "KEYBOARD": [
       "#000000",
