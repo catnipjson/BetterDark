@@ -1,6 +1,6 @@
 {
   "name": "BetterDark",
-  "description": "Dark mode, but darker, with white icons and grey in most aspects for usability.",
+  "description": "Dark mode, but darker, with white icons and grey in most aspects for usability. Obviously won't work with light mode.",
   "version": "1.0.7",
   "color": "#242424",
   "authors": [
