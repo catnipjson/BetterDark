@@ -100,8 +100,8 @@
       "#ffffff"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#5E5E5E",
-      "#ffffff"
+      "transparent",
+      "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
