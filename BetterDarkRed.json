@@ -2,7 +2,7 @@
   "name": "BetterDark Red",
   "description": "Darker than dark, with a twist of red.",
   "version": "1.1",
-  "color": "#BB5753",
+  "color": "#720900",
   "authors": [
     {
       "name": "darealyeeto",
@@ -55,7 +55,7 @@
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#333333",
+      "#720900",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
