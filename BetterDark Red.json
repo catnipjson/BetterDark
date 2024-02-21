@@ -31,15 +31,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#5B5B5B",
+      "#953333",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF",
+      "#BF3C3C",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#FFFFFF",
+      "#BF3C3C",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
