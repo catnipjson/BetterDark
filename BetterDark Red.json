@@ -27,15 +27,15 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FFFFFF",
+      "#BF3C3C",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#953333",
+      "#BF3C3C",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FFFFFF",
+      "#BF3C3C",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
