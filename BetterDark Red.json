@@ -1,6 +1,6 @@
 {
-  "name": "BetterDark",
-  "description": "Darker than dark.",
+  "name": "BetterDark Red",
+  "description": "Darker than dark, with a twist of red.",
   "version": "1.1",
   "color": "#3E3C3C",
   "authors": [
@@ -51,7 +51,7 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1B1B1B",
+      "#BF3C3C",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
@@ -132,7 +132,7 @@
       "#ffffff"
     ],
     "TEXT_LINK": [
-      "#848484",
+      "#BF3C3C",
       "#ffffff"
     ],
     "KEYBOARD": [
@@ -140,7 +140,7 @@
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#80848e",
+      "#BF3C3C",
       "#ffffff"
     ]
   },
