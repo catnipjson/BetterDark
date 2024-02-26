@@ -9,7 +9,8 @@
       "id": "980160393093730395"
     }
   ],
-  "theme_color_map": {
+  "spec": 2,
+  "semanticColors": {
     "HEADER_PRIMARY": [
       "#ffffff",
       "#ffffff"
