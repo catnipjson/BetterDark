@@ -103,6 +103,9 @@
       "transparent",
       "transparent"
     ],
+    "BG_BACKDROP": [
+      "000000b2"
+    ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
       "#ffffff"
