@@ -1,7 +1,6 @@
 {
   "name": "BetterDark Blue",
   "description": "Darker than dark, with a twist of blue.",
-  "version": "1.11",
   "color": "#A5C4FF",
   "authors": [
     {
@@ -181,6 +180,6 @@
     "CHAT_GREY": "#8E8E8E"
   },
   "background": {
-        "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213210497155997746/Untitled33_20240301191119.png?ex=65f4a552&is=65e23052&hm=fcdb57835c29b03d5460b1f8cff7ca814cc9a060c9c24f20bfd39815c992c2a8&"
+        "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213241204419067934/Untitled34_20240301213230.png?ex=65f4c1ec&is=65e24cec&hm=c2967106b5960da47fbbcf550eb28ecb00061f53e46771e8508944c26f6724af&"
   }
 }
