@@ -179,6 +179,8 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
+  },
+  "background": {
+        "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213210497155997746/Untitled33_20240301191119.png?ex=65f4a552&is=65e23052&hm=fcdb57835c29b03d5460b1f8cff7ca814cc9a060c9c24f20bfd39815c992c2a8&"
   }
-  
 }
