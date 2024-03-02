@@ -1,7 +1,6 @@
 {
   "name": "BetterDark Purple",
   "description": "Darker than dark, with a twist of purple.",
-  "version": "1.11",
   "color": "#7B5190",
   "authors": [
     {
@@ -130,6 +129,9 @@
       "#D5D5D5",
       "#ffffff"
     ],
+    "BG_BACKDROP": [
+      "#000000B2"
+    ],
     "CARD_PRIMARY_BG": [
       "#000000"
     ],
@@ -179,6 +181,8 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
+  },
+  "background": {
+        "url": "https://cdn.discordapp.com/attachments/981248954937274409/1213274612843159642/Untitled34_20240301213248.png?ex=65f4e109&is=65e26c09&hm=9a432c28ef688d8f0701f6092a27301e803e4b3f0a4748f35f62feb653c82600&"
   }
-  
 }
