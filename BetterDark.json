@@ -132,6 +132,9 @@
     "CARD_PRIMARY_BG": [
       "#000000"
     ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ],
     "TEXT_LINK": [
       "#848484",
       "#ffffff"
