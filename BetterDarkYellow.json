@@ -50,11 +50,11 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#423616",
+      "#9D6D23",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#423616",
+      "#9D6D23",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -135,6 +135,9 @@
     "BG_BACKDROP": [
       "#04010173"
     ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
     "TEXT_LINK": [
       "#FFDE54",
       "#ffffff"
@@ -171,7 +174,7 @@
     "PLUM_20": "#000000",
     "PLUM_22": "#000000",
     "BRAND_260": "#8a94a8",
-    "BRAND_500": "#FFA763",
+    "BRAND_500": "#FFDE54",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",    
     "YELLOW_300": "#ffffff",
