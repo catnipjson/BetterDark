@@ -135,6 +135,9 @@
     "BG_BACKDROP": [
       "#04010173"
     ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
     "TEXT_LINK": [
       "#8F5CA8",
       "#ffffff"
