@@ -50,11 +50,11 @@
       "#ffffff"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#402E09",
+      "#AD7B4D",
       "#ffffff"
     ],
     "BACKGROUND_TERTIARY": [
-      "#402E09",
+      "#AD7B4D",
       "#ffffff"
     ],
     "BACKGROUND_ACCENT": [
@@ -134,6 +134,9 @@
     ],
     "BG_BACKDROP": [
       "#04010173"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
     ],
     "TEXT_LINK": [
       "#FFA763",
