@@ -1,5 +1,5 @@
 {
-  "name": "BetterDark Pink",
+  "name": "BetterDarkPink",
   "description": "Darker than dark, with a twist of pink.",
   "color": "#FB8FFF",
   "authors": [
@@ -175,6 +175,7 @@
     "PLUM_22": "#000000",
     "BRAND_260": "#8a94a8",
     "BRAND_500": "#ECB6FF",
+    "BRAND_560": "#ECB6FF",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
     "YELLOW_300": "#ffffff",
