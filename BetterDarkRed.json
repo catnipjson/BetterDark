@@ -1,5 +1,5 @@
 {
-  "name": "BetterDark Red",
+  "name": "BetterDarkRed",
   "description": "Darker than dark, with a twist of red.",
   "color": "#EA5959",
   "authors": [
@@ -175,6 +175,7 @@
     "PLUM_22": "#000000",
     "BRAND_260": "#8a94a8",
     "BRAND_500": "#E04343",
+    "BRAND_560": "#E04343",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
     "YELLOW_300": "#ffffff",
