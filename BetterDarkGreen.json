@@ -181,7 +181,8 @@
     "YELLOW_300": "#ffffff",
     "GREEN_600": "#ffffff",
     "DANGER": "#89D59E",
-    "RED": "#848484"
+    "RED": "#848484",
+    "RED_400": "#89D59E"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
