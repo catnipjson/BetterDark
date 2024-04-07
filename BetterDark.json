@@ -182,7 +182,7 @@
     "GREEN_600": "#ffffff",
     "DANGER": "#2c2c2c",
     "RED": "#848484",
-    "RED_400": "#1B1B1B"
+    "RED_400": "#2C2C2C"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
