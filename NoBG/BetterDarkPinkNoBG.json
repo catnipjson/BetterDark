@@ -1,6 +1,6 @@
 {
-  "name": "BetterDarkPink",
-  "description": "Darker than dark, with a twist of pink.",
+  "name": "BetterDarkPinkNoBG",
+  "description": "Darker than dark, with a twist of pink - backgroundless.",
   "color": "#FB8FFF",
   "authors": [
     {
@@ -186,8 +186,5 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
-  },
-  "background": {
-        "url": "https://github.com/darealyeeto/BetterDark/assets/157327107/12360c6d-9c30-43fb-be06-29fdff024f17"
   }
 }
