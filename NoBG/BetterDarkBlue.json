@@ -1,5 +1,5 @@
 {
-  "name": "BetterDarkBlue",
+  "name": "BetterDarkBlueNoBG",
   "description": "Darker than dark, with a twist of blue.",
   "color": "#A5C4FF",
   "authors": [
@@ -189,8 +189,5 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#8E8E8E"
-  },
-  "background": {
-        "url": "https://github.com/darealyeeto/BetterDark/assets/157327107/2e70014d-62e4-4ca2-9aee-57958645b932"
   }
 }
