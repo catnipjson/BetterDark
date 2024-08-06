@@ -105,6 +105,10 @@
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
       "transparent"
+          ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#000000",
+      "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#333333",
