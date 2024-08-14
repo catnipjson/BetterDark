@@ -2,6 +2,7 @@
   "name": "BetterDarkBlueNoBG",
   "description": "Darker than dark, with a twist of blue - backgroundless.",
   "color": "#A5C4FF",
+    "spec": "2",
   "authors": [
     {
       "name": "darealyeeto",
@@ -83,7 +84,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
+      "#71a2ff",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -186,7 +187,8 @@
     "BRAND_560": "#71A2FF",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
-    "YELLOW_300": "#ffffff",
+    "YELLOW_300": "#71a2ff",
+    "YELLOW_260": "#71A2FF14",
     "GREEN_600": "#ffffff",
     "DANGER": "#2c2c2c",
     "RED": "#848484",
