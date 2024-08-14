@@ -11,7 +11,7 @@
   ],
   "plus": {
        "version": 0,
-       "mentionLineColor": "#ffffff",
+       "mentionLineColor": "#89D59E",
        "iconpack": "rosiecord-plumpy"
   },
   "semanticColors": {
@@ -84,7 +84,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
+      "#89D59E",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -185,7 +185,8 @@
     "BRAND_560": "#89D59E",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
-    "YELLOW_300": "#ffffff",
+    "YELLOW_300": "#89D59E",
+    "YELLOW_260": "89D59E14",
     "GREEN_600": "#ffffff",
     "DANGER": "#89D59E",
     "RED": "#848484",
