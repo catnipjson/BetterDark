@@ -83,7 +83,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
+      "#ffffff",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -173,6 +173,7 @@
     "PLUM_10": "#828490",
     "PLUM_11": "#000000",
     "PLUM_13": "#161616",
+    "PLUM_15": "#ffffff",
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
@@ -184,6 +185,7 @@
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
     "YELLOW_300": "#ffffff",
+    "YELLOW_260": "#ffffff14",
     "GREEN_600": "#ffffff",
     "DANGER": "#2c2c2c",
     "RED": "#848484",
