@@ -2,6 +2,7 @@
   "name": "BetterDarkGreen",
   "description": "Darker than dark, with a twist of green.",
   "color": "#BAFFB3",
+    "spec": "2",
   "authors": [
     {
       "name": "darealyeeto",
@@ -10,7 +11,7 @@
   ],
   "plus": {
        "version": 0,
-       "mentionLineColor": "#ffffff",
+       "mentionLineColor": "#89D59E",
        "iconpack": "rosiecord-plumpy"
   },
   "semanticColors": {
@@ -83,7 +84,7 @@
       "#ffffff"
     ],
     "BACKGROUND_MENTIONED": [
-      "#333333",
+      "#89D59E",
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
@@ -173,6 +174,7 @@
     "PLUM_10": "#828490",
     "PLUM_11": "#000000",
     "PLUM_13": "#68AE71",
+    "PLUM_15": "#89D59E"
     "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
@@ -183,7 +185,8 @@
     "BRAND_560": "#89D59E",
     "BRAND_900": "#ffffff",
     "BRAND": "#8a94a8",
-    "YELLOW_300": "#ffffff",
+    "YELLOW_300": "#89D59E",
+  "YELLOW_260": "#89D59E14",
     "GREEN_600": "#ffffff",
     "DANGER": "#89D59E",
     "RED": "#848484",
