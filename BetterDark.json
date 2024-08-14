@@ -2,6 +2,7 @@
   "name": "BetterDark",
   "description": "Darker than dark.",
   "color": "#3E3C3C",
+    "spec": "2",
   "authors": [
     {
       "name": "darealyeeto",
